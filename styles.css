@@ -69,5 +69,9 @@ body {
     margin-right: 25%;
     text-align: center;
   }
+  img{
+    width: 300;
+    height: 300;
+  }
 
 }
