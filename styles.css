@@ -70,8 +70,8 @@ body {
     text-align: center;
   }
   .polaroid-card{
-    width: 50%;
-    height: 50%;
+   margin-left: 25%;
+   margin-right: 25%;
   }
 
 }
